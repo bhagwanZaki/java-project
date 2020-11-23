@@ -1,3 +1,4 @@
+// Group 1 project
 // import Scanner class
 import java.util.Scanner;
 
